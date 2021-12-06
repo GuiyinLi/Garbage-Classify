@@ -1,4 +1,4 @@
-# ![输入图片说明](https://images.gitee.com/uploads/images/2021/0926/191129_573b61e7_5661830.png "16-10.png")
+# ![输入图片说明](树莓派.png)
 
 ## 一、项目概述
 
